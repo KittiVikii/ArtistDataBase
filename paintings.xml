@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<paintings>
+    <painting>
+        <id>1</id>
+        <title>Lonely Cedar</title>
+        <artist>Csontváry Kosztka Tivadar</artist>
+        <year>1907</year>
+    </painting>
+    <painting>
+        <id>2</id>
+        <title>Lonely Cedar</title>
+        <artist>Csontváry Kosztka Tivadar</artist>
+        <year>1907</year>
+    </painting>
+</paintings>
